@@ -1,7 +1,13 @@
 #container{
 width: 1000px;
+background-color: black;
 
 
+}
+
+#content h3{
+	background-color: yellow;
+	color: black;
 }
 
 #header{
@@ -16,14 +22,15 @@ display: inline-block;
 }
 
 #num{
-width: 500px;
+width: 400px;
 display: inline-block;
-padding-left: 100px;
+padding-left: 230px;
 font-family: times, serif;
+font-size: 15px
 }
 
 #navigator{
-border-top: 1px solid black;
+
 padding-top: 0px;
 
 
@@ -51,7 +58,6 @@ padding-top: 0px;
 	width: 90px;
 	padding: 20px;
 	border: 20px;
-	
 
 
 }
@@ -67,30 +73,70 @@ padding-top: 0px;
 }
 
 #break{
-
+	padding: 10px;
 
 }
+.bl-logo{
+	height: 1px;
+	width: 100px;
+	display: inline-block;
+	
+
+}
+ .bl-line{
+ 	font-size: 10px;
+ 	display: inline-block;
+ 	padding-left: 100px;
+ 	color: white;
+ 	
+
+ }
 
 #options{
+margin: 0;
+height: 300px;
+padding: 20px;
+}
+
+.links{
+display: inline-block;
+width: 230px;
+height: 325px;
+padding-right: 5px;
 
 
 }
 
-#automative{
-
-
+.links p{
+	background-color: white;
+	display: inline-block;
+	width: 230px;
+	margin: 0;
+	height: 130px;
 }
 
-#commercial{
-
-
+.links h4{
+	background-color: yellow;
+	padding-bottom: 0;
+	height: 25px;
+	display: inline-block;
+	width: 230px;
+	margin: 0;
 }
-#industrial{
 
-
+.links img{
+	height: 150px;
+	width: 230px;
+	padding-top: 0px;
+	display: inline-block;
+	margin: 0;
 }
 
-#diseal{
+.links .thumb{
+	width: 100px;
+	height: 20px;
+	padding-left: 130px;
+
 
 
 }
