@@ -1,0 +1,96 @@
+#container{
+width: 1000px;
+
+
+}
+
+#header{
+	background-color: #EEEEEE;
+
+
+
+}
+
+#logodiv{
+display: inline-block;
+}
+
+#num{
+width: 500px;
+display: inline-block;
+padding-left: 100px;
+font-family: times, serif;
+}
+
+#navigator{
+border-top: 1px solid black;
+padding-top: 0px;
+
+
+
+}
+
+#navigator li{
+	display: inline-block;
+	border-left: 1px solid black;
+	padding-left: 6px;
+	padding-right: 6px;
+
+}
+
+#about{
+	background-color: #0c0c0c;
+	height: 310px;
+	
+	
+
+}
+
+#image{
+	display: inline-block;
+	width: 90px;
+	padding: 20px;
+	border: 20px;
+	
+
+
+}
+
+#content{
+	display: inline-block;
+	width: 575px;
+	margin-left: 285px;
+	background-color: #5c5c5a;
+	font-size: 14px;
+	color: white;
+	border: 20px;
+}
+
+#break{
+
+
+}
+
+#options{
+
+
+}
+
+#automative{
+
+
+}
+
+#commercial{
+
+
+}
+#industrial{
+
+
+}
+
+#diseal{
+
+
+}
